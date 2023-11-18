@@ -37,19 +37,19 @@ window.onscroll = function(){
         drinkImage.src = "images/drink-images/Untitled_Artwork-6.png";
     }
 
-    if (scrollAmount > 830){
+    if (scrollAmount > 850){
         drinkImage.src = "images/drink-images/Untitled_Artwork-7.png";
     }
 
-    if (scrollAmount > 850){
+    if (scrollAmount > 900){
         drinkImage.src = "images/drink-images/Untitled_Artwork-8.png";
     }
 
-    if (scrollAmount > 900){
+    if (scrollAmount > 1050){
         drinkImage.src = "images/drink-images/Untitled_Artwork-9.png";
     }
 
-    if (scrollAmount > 950){
+    if (scrollAmount > 1070){
         drinkImage.src = "images/drink-images/Untitled_Artwork-10.png";
     }
 }

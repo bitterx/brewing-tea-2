@@ -56,10 +56,6 @@ stroke:none;
 
 
 
-/* .main-image{
-    width:1000px;
-    height:auto;
-} */
 
 
 .main-image{
@@ -129,21 +125,21 @@ div{
 position: absolute;
 scale:15%;
 top:50vw;
-right:220px;
+right:20%;
 }
 
 .whisk{
     position: absolute;
     scale:15%;
     top:90vw;
-    left:200px;
+    left:20%;
     }
 
 .lemon-split{
     position: absolute;
     scale:15%;
     top:130vw;
-    right:200px;
+    right:20%;
 }
     
 
@@ -152,5 +148,5 @@ right:220px;
     position: absolute;
     scale:20%;
     top:170vw;
-    left:200px;
+    left:20%;
     }
