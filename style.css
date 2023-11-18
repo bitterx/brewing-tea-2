@@ -124,22 +124,22 @@ div{
 .lemon-float{
 position: absolute;
 scale:15%;
-top:50vw;
-right:20%;
+top:1119px;
+left:-782px;
 }
 
 .whisk{
     position: absolute;
     scale:15%;
-    top:90vw;
-    left:20%;
+    top:1732px;
+    right:-786px;
     }
 
 .lemon-split{
     position: absolute;
     scale:15%;
-    top:130vw;
-    right:20%;
+    top:2200px;
+    left:-782px;
 }
     
 
@@ -147,6 +147,6 @@ right:20%;
 .teabag{
     position: absolute;
     scale:20%;
-    top:170vw;
-    left:20%;
+    top:2500px;
+    right:-786px;
     }
